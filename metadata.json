@@ -1,0 +1,6 @@
+{
+  "name": "Sovereign 3D Ecosystem",
+  "description": "An immersive spatial web experience powered by the Horizon Engine, featuring interactive 3D interfaces, AI-driven logic arenas, and sovereign hardware telemetry.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
